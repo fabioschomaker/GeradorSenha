@@ -98,3 +98,9 @@ body{
     bottom: 50px;
     opacity: 1;
 }
+
+@media screen and (max-width :768px) {
+    body{
+        width: 90%;
+    }
+}
